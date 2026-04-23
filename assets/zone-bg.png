@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   media.base44.com | Fix74 Hub
+  </title>
+  <meta content="Fix74, votre artisan multi-services de confiance en Haute-Savoie. Plomberie, électricité, maçonnerie, fixations murales, meubles sur mesure. Devis gratuit au 06.58.10.31.00. Annecy, Bonneville, Cluses, Sallanches." name="description"/>
+  <meta content="artisan haute-savoie, bricolage 74, plombier annecy, électricien bonneville, maçonnerie cluses, fixation murale, meuble sur mesure, dépannage domicile, Fix74" name="keywords"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="Fix74" name="author"/>
+  <link href="https://fix74.fr/" rel="canonical"/>
+  <!-- Open Graph -->
+  <meta content="Fix74 — Artisan Multi-Services en Haute-Savoie" property="og:title"/>
+  <meta content="Plomberie, électricité, maçonnerie, meubles sur mesure et plus. Votre artisan local de confiance en Haute-Savoie." property="og:description"/>
+  <meta content="https://fix74.fr/" property="og:url"/>
+  <meta content="website" property="og:type"/>
+  <meta content="fr_FR" property="og:locale"/>
+  <meta content="Fix74" property="og:site_name"/>
+  <!-- Twitter -->
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Fix74 — Artisan Multi-Services en Haute-Savoie" name="twitter:title"/>
+  <meta content="Votre artisan multi-services de confiance en Haute-Savoie. Devis gratuit." name="twitter:description"/>
+  <!-- Geo -->
+  <meta content="FR-74" name="geo.region"/>
+  <meta content="Haute-Savoie" name="geo.placename"/>
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+   {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Fix74",
+      "url": "https://fix74.fr",
+      "telephone": "+33658103100",
+      "description": "Artisan multi-services en Haute-Savoie : plomberie, électricité, maçonnerie, fixations murales, meubles sur mesure, dépannage à domicile.",
+      "areaServed": [
+        {"@type": "City", "name": "Annecy"},
+        {"@type": "City", "name": "Bonneville"},
+        {"@type": "City", "name": "Cluses"},
+        {"@type": "City", "name": "Sallanches"},
+        {"@type": "City", "name": "Thonon-les-Bains"},
+        {"@type": "City", "name": "Évian-les-Bains"},
+        {"@type": "City", "name": "Saint-Julien-en-Genevois"},
+        {"@type": "City", "name": "La Roche-sur-Foron"},
+        {"@type": "City", "name": "Chamonix"},
+        {"@type": "City", "name": "Megève"}
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Haute-Savoie",
+        "addressCountry": "FR"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services Fix74",
+        "itemListElement": [
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Petite maçonnerie"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Plomberie légère"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Électricité mineure"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Réparation de meubles"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Fixations murales"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Maintenance & dépannage"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Montage cabanes de jardin"}},
+          {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Meubles sur mesure"}}
+        ]
+      }
+    }
+  </script>
+  <div id="root">
+  </div>
+  <script crossorigin="" src="/assets/index-ByxWiVpu.js" type="module">
+  </script>
+  <link crossorigin="" href="/assets/index-BYxQIJt-.css" rel="stylesheet"/>
+  <script type="module">
+   if (window.self === window.top) {
+  let lastPath = "";
+  function getPageNameFromPath(path) {
+    const segments = path.split("/").filter(Boolean);
+    return segments[0] || null;
+  }
+  function trackPageView() {
+    const path = window.location.pathname;
+    if (path === lastPath) return;
+    lastPath = path;
+    const pageName = getPageNameFromPath(path) || "home";
+    const appId = "69ea24f09048173b370063e3";
+    if (!appId) return;
+    fetch(`/app-logs/${appId}/log-user-in-app/${pageName}`, {
+      method: "POST",
+    }).catch(() => {});
+  }
+  const originalPushState = history.pushState.bind(history);
+  history.pushState = function (...args) {
+    originalPushState(...args);
+    trackPageView();
+  };
+  const originalReplaceState = history.replaceState.bind(history);
+  history.replaceState = function (...args) {
+    originalReplaceState(...args);
+    trackPageView();
+  };
+  window.addEventListener("popstate", trackPageView);
+  trackPageView();
+}
+  </script>
+  <meta content="https://media.base44.com/images/public/69ea24f09048173b370063e3/15e28d3c0_logo.png/v1/fill/w_1200,h_630/15e28d3c0_logo.png" property="og:image"/>
+  <meta content="https://media.base44.com/images/public/69ea24f09048173b370063e3/15e28d3c0_logo.png/v1/fill/w_1200,h_630/15e28d3c0_logo.png" name="twitter:image"/>
+  <meta content="https://fix74.base44.app/media.base44.com/images/public/69ea24f09048173b370063e3/f2e314498_generated_d72c1b1e.png" name="twitter:url"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="Fix74 Hub" name="apple-mobile-web-app-title"/>
+  <script async="true" data-app-id="69ea24f09048173b370063e3" data-platform-url="https://app.base44.com" src="/static/js/badge.js">
+  </script>
+ </head>
+ <body>
+ </body>
+</html>
